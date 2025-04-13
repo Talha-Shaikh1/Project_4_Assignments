@@ -8,7 +8,7 @@ def main():
     total: int = 0
     for num in numbers:
         total += num
-    print(f"The sum of the numbers is: {total}")
+    print(f"The sum of the numbers is: {total}") # 15
 # This provided line is required at the end of
 # Python file to call the main() function.
 if __name__ == '__main__':
